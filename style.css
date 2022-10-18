@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #ccc;
+}
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  /* text-align: center; */
+}
+.apply_box {
+  max-width: 600px;
+  padding: 20px;
+  background-color: white;
+  color: black;
+  margin: 0 auto;
+  margin-top: 50px;
+  box-shadow: 4px 3px 5px rgba(1, 1, 1, 0.1);
+  border-radius: 10px;
+}
